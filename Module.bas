@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "Module"
 Public Sub BTCPrice()
 
 Dim oJSON As Object
